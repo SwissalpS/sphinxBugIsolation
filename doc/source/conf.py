@@ -66,7 +66,7 @@ exhale_args = {
         # this is set to NO if EXTRACT_ALL is set to YES
         WARN_IF_UNDOCUMENTED = YES
         # sometimes we just want all for valid reasons
-        EXTRACT_ALL = YES
+        EXTRACT_ALL = NO
         # Allow for rst directives and advanced functions e.g. grid tables
         ALIASES += "rst=\\verbatim embed:rst:leading-asterisk"
         ALIASES += "endrst=\\endverbatim"
