@@ -3,7 +3,7 @@ namespace SwissalpS { namespace FooTest { namespace IRC {
 
 
 
-// this works when run with python 3.6.9
+// this works when run with python 3.6.9 -> https://i.imgur.com/hYn7flQ.png
 // but with Python 3.8.5 'irc.abort' is invisible
 
 
